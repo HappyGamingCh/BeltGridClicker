@@ -1,0 +1,12 @@
+# number of columns/rows in your grid
+columns=3
+rows=4
+
+# speed: 1 = human-like (default), 2 = ~2x faster
+speed=1
+
+# scan_order:
+#   1 = top→bottom then left→right  (column-major)
+#   2 = left→right then top→bottom  (row-major)
+#   3 = random
+scan_order=1
