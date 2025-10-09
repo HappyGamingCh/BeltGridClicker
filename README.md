@@ -33,8 +33,9 @@ An auto-clicker for grid UIs (e.g., game inventories) that holds **Shift** and c
    - `Ctrl+Alt+3` → **pBL** (bottom-left of the bottom-left cell)
 3) **Start**: `Ctrl+Alt+0`  
    The app will wait briefly, hold **Shift**, and click all cells per the configured scan order.
-4) **Emergency stop**: `Ctrl+Alt+9` (or use the PyAutoGUI failsafe by moving the mouse to the top-left screen corner).
-5) **Change runtime settings**: edit `config.txt`, then press `Ctrl+Alt+R` to reload (applies to the **next run**).
+   Note that you should right click at currency such as Orb of Chance to get ready before start.
+5) **Emergency stop**: `Ctrl+Alt+9` (or use the PyAutoGUI failsafe by moving the mouse to the top-left screen corner).
+6) **Change runtime settings**: edit `config.txt`, then press `Ctrl+Alt+R` to reload (applies to the **next run**).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HappyGamingCh/BeltGridClicker/main/3-point%20position.JPG" alt="3-point calibration" width="600">
